@@ -7,3 +7,16 @@
 O 'git' usa da branch como master o 'github' como main
 
 para converter use ''git branche -M main'' depois que fizer o primeiro commit a partir do repositório criado com o ''git init''
+
+# manipulação de branches
+pra listar use:
+'''
+$ git branch --list
+'''
+
+para excluir uma branch
+'''
+$ git branch -d nome_da_branch
+'''
+$ git branch  
+'''
